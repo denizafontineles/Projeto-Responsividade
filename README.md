@@ -1,0 +1,2 @@
+<h1>Introdução a aula de responsividade da Reprograma</h1>
+<p>Na terceira semana de aula da reprograma, iremos aprender como deixar um site responsivo, criando e implementando na prática o conceito de como deixar o site adaptado para todo tipo de sitema operacional.</p>
