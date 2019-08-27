@@ -11,15 +11,19 @@ body {
     width: 100vw;
     height: 100vw;
     background-color: white;
+    display: flex;
+}
+
+.container {
+    flex-direction: column;
 }
 
 .container-direito {
-    display: flex;
-    margin-left: 700px;
+    margin: 0px auto;
+    margin-left: 50%
 }
 
-.container__logo img {
+.container-logo {
     width: 130px;
     height: 35px;
-    padding-left: 10px;
 }
