@@ -1,36 +1,25 @@
 * {
     box-sizing: border-box;
-}
-
-body {
-    background-color: rgb(82, 86, 89);
-    margin: 0;
     font-family: 'Rubik', sans-serif;
 }
 
-.container-home {
-    margin: 60px auto;
-    width: 98vw;
+body {
+    margin: 0;
+    background-image: url("./img/azul-bg.jpg");
+    background-size: 45% 55%;
+    background-repeat: no-repeat;
+    width: 100vw;
     height: 100vw;
     background-color: white;
 }
 
-.container-home_img {
-    background-image: url("./img/azul-bg.jpg");
-    background-size: cover;
-    width: 90vh;
-    height: 110vh;
-    text-align: center;
+.container-direito {
     display: flex;
+    margin-left: 700px;
 }
 
-.container-home__logo {
+.container__logo img {
     width: 130px;
     height: 35px;
-    margin-top: 90px;
-}
-
-.container-home__linhas {
-    width: 130vh;
-    height: 20vh;
+    padding-left: 10px;
 }
